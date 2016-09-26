@@ -4,4 +4,4 @@
 
 - fork/clone repo
 - `cd` to filepath
-- run '$ ruby hello_git.rb'
+- run `$ ruby hello_git.rb`
